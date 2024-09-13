@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Pedro<br><br>- 🧑‍💻 I'm studying Computer Engineering at USP (University of São Paulo).<br>- 💼 On my GitHub, you’ll find personal projects as well as some from my university courses.<br>- 📚 Lately, I’ve been really into learning web development.<br>- 🌐 I also built a website to help students choose their course in the SISU process. You can check it out on meusisu.com.</p>
+<p align="left">I'm Pedro<br><br>- 🧑‍💻 I'm studying Computer Engineering at USP (University of São Paulo).<br>- 💼 On my GitHub, you’ll find personal projects as well as some from my university courses.<br>- 📚 Lately, I’ve been really into learning web development.<br>- 🌐 I also built a website to help students choose their course in the SISU process. You can check it out on [meusisu.com](https://meusisu.com)</p>
 
 ###
 
