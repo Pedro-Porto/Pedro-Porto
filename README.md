@@ -79,9 +79,16 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="stats graph"  />
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true&layout=compact" height="150" alt="languages graph"  />
+
+
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
