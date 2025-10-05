@@ -82,14 +82,13 @@
 <div align="center">
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true" height="160" alt="stats graph"  />
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Porto&theme=dark&hide_border=true&include_all_commits=true&layout=compact" height="160" alt="languages graph"  />
 
 
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ###
